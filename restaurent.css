@@ -1,0 +1,631 @@
+.main {
+    background-color: rgb(158, 156, 195);
+}
+
+#Menu {
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    background-color: black;
+    color: white;
+}
+
+.container {
+    display: flex;
+    /* Use Flexbox to align items side by side */
+    justify-content: space-around;
+    /* Space around the items  */
+    align-items: flex-start;
+    /* Align items to the top */
+    flex-wrap: wrap;
+    gap: 10px;
+    /* Add space between the cards */
+    margin: 20px;
+    /* Add margin around the container */
+}
+
+#Tm {
+    text-transform: uppercase;
+    text-decoration: underline;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#Lunch {
+    text-transform: uppercase;
+    text-decoration: underline;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#Dinner {
+    text-transform: uppercase;
+    text-decoration: underline;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.table {
+    width: fit-content;
+    background-color: black;
+    color: white;
+    flex-wrap: wrap;
+}
+
+.Tiffin {
+    width: 700px;
+    color: white;
+    border: 5px solid red;
+    background-color: black;
+
+    .r1 {
+        text-align: center;
+
+        img {
+            width: 250px;
+            height: 250px;
+            border: 2px solid red;
+            border-radius: 250px;
+        }
+    }
+    .r2 {
+        text-align: center;
+
+        img {
+            width: 250px;
+            height: 250px;
+            border: 2px solid red;
+            border-radius: 250px;
+        }
+    }
+
+    .r3 {
+        text-align: center;
+
+        img {
+            width: 250px;
+            height: 250px;
+            border: 2px solid red;
+            border-radius: 250px;
+        }
+    }
+
+    .r4 {
+        text-align: center;
+
+        img {
+            width: 250px;
+            height: 250px;
+            border: 2px solid red;
+            border-radius: 250px;
+        }
+    }
+
+    .r5 {
+        text-align: center;
+
+        img {
+            width: 250px;
+            height: 250px;
+            border: 2px solid red;
+            border-radius: 250px;
+        }
+    }
+
+    .r6 {
+        text-align: center;
+
+        img {
+            width: 250px;
+            height: 250px;
+            border: 2px solid red;
+            border-radius: 250px;
+        }
+    }
+}
+
+.lunch {
+    width: 700px;
+    color: white;
+    border: 5px solid red;
+    background-color: black;
+
+    .r1 {
+        text-align: center;
+
+        img {
+            width: 250px;
+            height: 250px;
+            border: 2px solid red;
+            border-radius: 250px;
+        }
+    }
+
+    .r2 {
+        text-align: center;
+
+        img {
+            width: 250px;
+            height: 250px;
+            border: 2px solid red;
+            border-radius: 250px;
+        }
+    }
+
+    .r3 {
+        text-align: center;
+
+        img {
+            width: 250px;
+            height: 250px;
+            border: 2px solid red;
+            border-radius: 250px;
+        }
+    }
+
+    .r4 {
+        text-align: center;
+
+        img {
+            width: 250px;
+            height: 250px;
+            border: 2px solid red;
+            border-radius: 250px;
+        }
+    }
+
+    .r5 {
+        text-align: center;
+
+        img {
+            width: 250px;
+            height: 250px;
+            border: 2px solid red;
+            border-radius: 250px;
+        }
+    }
+}
+
+.table4 {
+    width: 700px;
+    color: white;
+    border: 5px solid red;
+    background-color: black;
+
+    .r1 {
+        text-align: center;
+
+        img {
+            width: 250px;
+            height: 250px;
+            border: 2px solid red;
+            border-radius: 250px;
+        }
+    }
+
+    .r2 {
+        text-align: center;
+
+        img {
+            width: 250px;
+            height: 250px;
+            border: 2px solid red;
+            border-radius: 250px;
+        }
+    }
+
+    .r3 {
+        text-align: center;
+
+        img {
+            width: 250px;
+            height: 250px;
+            border: 2px solid red;
+            border-radius: 250px;
+        }
+    }
+
+    .r4 {
+        text-align: center;
+
+        img {
+            width: 250px;
+            height: 250px;
+            border: 2px solid red;
+            border-radius: 250px;
+        }
+    }
+
+    .r5 {
+        text-align: center;
+
+        img {
+            width: 250px;
+            height: 250px;
+            border: 2px solid red;
+            border-radius: 250px;
+        }
+    }
+
+}
+
+
+.card1 {
+    border: 10px solid red;
+    border-radius: 20px;
+    width: 500px;
+    text-align: center;
+    height: 600px;
+    background-color: rgb(11, 16, 16);
+    color: white;
+
+    img {
+        width: 350px;
+        border-width: 5px;
+        border-style: solid;
+        border-color: white;
+        border-radius: 10px;
+    }
+
+    p {
+        text-align: justify;
+        text-transform: capitalize;
+        font-size: 15px;
+
+    }
+
+    h1 {
+        text-transform: uppercase;
+        font-size: 20px;
+        text-decoration: underline;
+        color: white;
+        background-color: red;
+    }
+
+    h3 {
+        text-transform: capitalize;
+        font-size: 20px;
+        background-color: red;
+    }
+}
+
+.card2 {
+    text-align: center;
+    width: 500px;
+    border: 10px solid rgb(223, 14, 14);
+    border-radius: 20px;
+    height: 600px;
+    background-color: black;
+    color: white;
+
+    img {
+        width: 350px;
+        border: 10px solid rgb(231, 238, 231);
+        border-radius: 20px;
+    }
+
+    p {
+        text-align: justify;
+        font-size: 20px;
+    }
+
+    h1 {
+        text-decoration: underline;
+        background-color: red;
+        text-transform: capitalize;
+    }
+
+    h3 {
+        text-transform: capitalize;
+        font-size: 20px;
+        background-color: red;
+    }
+}
+
+.card3 {
+    border: 10px solid red;
+    border-radius: 20px;
+    width: 500px;
+    text-align: center;
+    height: 600px;
+    background-color: black;
+
+    img {
+        width: 350px;
+        border-width: 5px;
+        border-style: solid;
+        border-color: rgb(230, 233, 230);
+        border-radius: 10px;
+    }
+
+    p {
+        text-align: justify;
+        text-transform: capitalize;
+        color: white;
+
+    }
+
+    h1 {
+        text-transform: uppercase;
+        font-size: 20px;
+        text-decoration: underline;
+        color: white;
+        background-color: red;
+    }
+
+    h3 {
+        text-transform: capitalize;
+        font-size: 20px;
+        background-color: red;
+        color: white;
+    }
+
+}
+
+.card4 {
+    border: 10px solid red;
+    border-radius: 20px;
+    width: 500px;
+    text-align: center;
+    height: 600px;
+    background-color: black;
+
+    img {
+        width: 350px;
+        border-width: 5px;
+        border-style: solid;
+        border-color: white;
+        border-radius: 10px;
+    }
+
+    p {
+        text-align: justify;
+        text-transform: capitalize;
+        color: white;
+
+    }
+
+    h1 {
+        text-transform: uppercase;
+        font-size: 20px;
+        text-decoration: underline;
+        color: white;
+        background-color: red;
+    }
+
+    h3 {
+        text-transform: capitalize;
+        font-size: 20px;
+        background-color: red;
+        color: white;
+    }
+
+}
+
+.card5 {
+    text-align: center;
+    width: 500px;
+    border: 10px solid red;
+    border-radius: 20px;
+    height: 600px;
+    background-color: black;
+
+    img {
+        width: 350px;
+        border: 10px solid white;
+        border-radius: 20px;
+    }
+
+    p {
+        text-align: justify;
+        font-size: 20px;
+        color: white;
+    }
+
+    h1 {
+        text-decoration: underline;
+        background-color: red;
+        text-transform: capitalize;
+        color: white;
+    }
+
+    h3 {
+        text-transform: capitalize;
+        font-size: 20px;
+        background-color: red;
+        color: white;
+    }
+}
+
+.card6 {
+    background-color: black;
+    width: 500px;
+    text-align: center;
+    border: 10px solid red;
+    border-radius: 10px;
+    height: 600px;
+
+    img {
+        width: 450px;
+        border: 5px solid white;
+        border-radius: 450px;
+    }
+
+    p {
+        text-align: justify;
+        text-transform: capitalize;
+        font-size: 20px;
+        color: white;
+    }
+
+    .ul {
+        color: rgb(190, 14, 14);
+        text-align: justify;
+
+        #manchuria {
+            color: green;
+            text-decoration: underline;
+        }
+    }
+
+    h3 {
+        text-decoration: underline;
+        text-transform: capitalize;
+        background-color: red;
+        color: white;
+
+    }
+
+    h1 {
+        text-transform: uppercase;
+        text-align: center;
+        background-color: red;
+        text-decoration: underline;
+        font-size: 20px;
+        color: white;
+    }
+}
+
+.card7 {
+    background-color: black;
+    width: 500px;
+    text-align: center;
+    border: 10px solid red;
+    border-radius: 20px;
+    height: 600px;
+
+    h1 {
+        text-transform: uppercase;
+        text-decoration: underline;
+        background-color: red;
+        color: white;
+        text-align: center;
+        font-size: 20px;
+    }
+
+    img {
+        border: 5px solid white;
+        border-radius: 250px;
+        width: 250px;
+        height: 250px;
+    }
+
+    p {
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-style: italic;
+        text-transform: capitalize;
+        text-align: justify;
+        color: white;
+    }
+
+    .ol {
+        color: red;
+        text-align: justify;
+
+        #mutton {
+            color: green;
+        }
+    }
+
+    h3 {
+        background-color: red;
+        color: white;
+        text-align: center;
+        font-size: 20px;
+        font-style: initial;
+    }
+}
+
+.card8 {
+    border: 10px solid red;
+    border-radius: 20px;
+    width: 500px;
+    text-align: center;
+    height: 600px;
+    background-color: black;
+
+    img {
+        width: 250px;
+        height: 250px;
+        border-width: 5px;
+        border-style: solid;
+        border-color: white;
+        border-radius: 250px;
+    }
+
+    p {
+        text-align: justify;
+        text-transform: capitalize;
+        color: white;
+
+    }
+
+    h1 {
+        text-transform: uppercase;
+        font-size: 20px;
+        text-decoration: underline;
+        color: white;
+        background-color: red;
+    }
+
+    span {
+        text-transform: capitalize;
+        font-size: 20px;
+        background-color: red;
+        color: white;
+    }
+
+}
+
+.restaurent {
+    text-align: center;
+
+    h1 {
+        text-align: center;
+        text-decoration: underline;
+        text-transform: uppercase;
+        background-color: black;
+        color: white;
+    }
+
+    img {
+        border: 10px solid rgb(194, 18, 18);
+        border-radius: 20px;
+    }
+
+    .para1 {
+        text-align: justify;
+        text-transform: capitalize;
+        font-size: 20px;
+        font-style: italic;
+    }
+
+    .para2 {
+        text-align: justify;
+        text-transform: capitalize;
+        font-size: 20px;
+        font-style: italic;
+    }
+}
+
+#form {
+    background-color: black;
+    color: white;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.form1 {
+    border: 10px solid rgb(195, 11, 11);
+    border-radius: 20px;
+    width: 600px;
+    height: 650px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-size: 15px;
+}
