@@ -630,3 +630,11 @@
     background-color: black;
     font-size: 15px;
 }
+
+td{
+    .Mitem{
+        font-style: italic;
+        font-family: 'Times New Roman', Times, serif;
+        text-transform: capitalize;
+    }
+}
