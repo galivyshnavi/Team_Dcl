@@ -60,6 +60,7 @@
     color: white;
     border: 5px solid red;
     background-color: black;
+    text-align: center;
 
     .r1 {
         text-align: center;
@@ -133,7 +134,7 @@
     color: white;
     border: 5px solid red;
     background-color: black;
-
+    text-align: center;
     .r1 {
         text-align: center;
 
