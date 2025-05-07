@@ -53,6 +53,7 @@
     background-color: black;
     color: white;
     flex-wrap: wrap;
+    text-align: center;
 }
 
 .Tiffin {
@@ -638,9 +639,3 @@
     font-size: 15px;
 }
 
-
-.Mitem {
-    font-style: italic;
-    font-family: 'Times New Roman', Times, serif;
-    text-transform: capitalize;
-}
