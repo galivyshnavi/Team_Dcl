@@ -129,10 +129,14 @@
         }
     }
     .r7{
+        text-align: center;
+
+       img{
         width: 250px;
-            height: 250px;
-            border: 2px solid red;
-            border-radius: 250px;
+        height: 250px;
+        border: 2px solid red;
+        border-radius: 250px;
+       } 
     }
 }
 
