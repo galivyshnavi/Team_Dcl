@@ -53,6 +53,7 @@
     background-color: black;
     color: white;
     flex-wrap: wrap;
+    text-align: center;
 }
 
 .Tiffin {
@@ -60,6 +61,7 @@
     color: white;
     border: 5px solid red;
     background-color: black;
+    text-align: center;
 
     .r1 {
         text-align: center;
@@ -71,6 +73,7 @@
             border-radius: 250px;
         }
     }
+
     .r2 {
         text-align: center;
 
@@ -125,6 +128,12 @@
             border-radius: 250px;
         }
     }
+    .r7{
+        width: 250px;
+            height: 250px;
+            border: 2px solid red;
+            border-radius: 250px;
+    }
 }
 
 .lunch {
@@ -132,7 +141,7 @@
     color: white;
     border: 5px solid red;
     background-color: black;
-
+    text-align: center;
     .r1 {
         text-align: center;
 
@@ -629,3 +638,4 @@
     background-color: black;
     font-size: 15px;
 }
+
