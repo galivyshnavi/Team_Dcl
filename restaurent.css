@@ -60,6 +60,7 @@
     color: white;
     border: 5px solid red;
     background-color: black;
+    text-align: center;
 
     .r1 {
         text-align: center;
@@ -71,6 +72,7 @@
             border-radius: 250px;
         }
     }
+
     .r2 {
         text-align: center;
 
@@ -132,7 +134,7 @@
     color: white;
     border: 5px solid red;
     background-color: black;
-
+    text-align: center;
     .r1 {
         text-align: center;
 
@@ -628,4 +630,11 @@
     color: white;
     background-color: black;
     font-size: 15px;
+}
+
+
+.Mitem {
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
 }
