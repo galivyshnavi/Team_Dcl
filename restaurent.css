@@ -71,6 +71,7 @@
             border-radius: 250px;
         }
     }
+
     .r2 {
         text-align: center;
 
@@ -630,10 +631,9 @@
     font-size: 15px;
 }
 
-td{
-    .Mitem{
-        font-style: italic;
-        font-family: 'Times New Roman', Times, serif;
-        text-transform: capitalize;
-    }
+
+.Mitem {
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
 }
